@@ -13,3 +13,8 @@ It has been shown that FDS performs reasonably well but some discrepancies betwe
 The model can be checked and investigated in order to improve the results.
 
 The uploaded model includes main comments in english. Other comments are in french (my native language).
+
+How to use? 
+Download FDS version 5.5.3 and Smokeview on the NIST website : https://pages.nist.gov/fds-smv/ 
+
+
