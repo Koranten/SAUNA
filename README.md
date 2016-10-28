@@ -11,3 +11,5 @@ https://issuu.com/corentin/docs/sauna_simulation_paper_be
 
 It has been shown that FDS performs reasonably well but some discrepancies between experimental and numerical results still exist.
 The model can be checked and investigated in order to improve the results.
+
+The uploaded model includes main comments in english. Other comments are in french (my native language).
